@@ -1,0 +1,15 @@
+{
+  "model_name": "Random Forest Regressor",
+  "evaluation_metrics": {
+    "r2_score": 0.88,
+    "mae": 15.25,
+    "rmse": 23.40,
+    "mape_percent": 12.5
+  },
+  "training_parameters": {
+    "n_estimators": 100,
+    "max_depth": 12,
+    "random_state": 42
+  },
+  "description": "Preserved test evaluation metrics for the House Price Prediction model"
+}
